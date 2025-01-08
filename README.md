@@ -3,8 +3,8 @@ OpenOSD
 > Last Updated: 2025.01.08
 
 
-# WinPE Drivers Repository
-The WinPE Drivers Repository is a Community effort to provide a central location for WinPE Drivers.  These Drivers can be used with OSDCloud (soon), MDT, SCCM, or any other Deployment Solution that uses WinPE Boot Images. 
+# OpenWinPEDrivers
+The OpenWinPEDrivers is a Community effort to provide a central location for WinPE Drivers.  These Drivers can be used with OSDCloud (soon), MDT, SCCM, or any other Deployment solution that uses WinPE Boot Images. 
 
 The content of this Repository is provided as-is, and no warranty is given.  Please test these Drivers in your environment before using them in Production.
 
@@ -52,10 +52,10 @@ You can use the following snippet to clone the Repository to your local machine 
 
 ```powershell
 # Source Git Repository
-$Source = 'https://github.com/OSDeploy/WinPEDrivers.git'
+$Source = 'https://github.com/OSDeploy/OpenWinPEDrivers.git'
 
 # Destination Folder
-$Destination = $env:ProgramData + "\OSDeploy\WinPEDrivers\"
+$Destination = $env:ProgramData + "\OpenOSD\OpenWinPEDrivers\"
 
 # Git Clone Reset and Clean
 # This method is used to keep the Destination in sync with changes from the Source
