@@ -1,0 +1,20 @@
+Scanning directories for the count of INFs to import.
+Performing the operation "import" on target "Out-of-box drivers".
+Creating new item named Intel Corporation System iaLPSS2_GPIO2_ADL.inf 30.100.2237.26 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation System iaLPSS2_I2C_ADL.inf 30.100.2237.26 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation System iaLPSS2_SPI_ADL.inf 30.100.2237.26 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation System iaLPSS2_UART2_ADL.inf 30.100.2237.26 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Warning: Driver Realtek Net rtu52cx22x64.INF 1152.13.0420.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu52cx22x64.INF 1152.13.0420.2023 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Warning: Driver Realtek Net rtu53cx22x64.INF 1153.13.0420.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu53cx22x64.INF 1153.13.0420.2023 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Warning: Driver Realtek Net rtu55cx22x64.INF 1155.13.0420.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu55cx22x64.INF 1155.13.0420.2023 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Warning: Driver Realtek Net rtu56cx22x64.INF 1156.13.0420.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtu56cx22x64.INF 1156.13.0420.2023 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Warning: Driver Realtek Net rtump64x64.INF 10.59.0420.2023 does not appear to support platform x86 as indicated.  Overriding the indicated platform.
+Creating new item named Realtek Net rtump64x64.INF 10.59.0420.2023 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation SoftwareComponent iaStorHsaComponent.inf 19.5.3.1050 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation Extension iaStorHsa_Ext.inf 19.5.3.1050 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Creating new item named Intel Corporation SCSIAdapter iaStorVD.inf 19.5.3.1050 at DS002:\Out-of-Box Drivers\tp_rpl_pe11_202312.
+Import processing finished.
