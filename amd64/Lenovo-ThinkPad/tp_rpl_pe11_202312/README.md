@@ -28,7 +28,7 @@ Download the latest DriverPack.
 Execute the DriverPack to a temporary folder.
   [driverpackage.exe] "/VERYSILENT /DIR=[extractiondir] /EXTRACT=YES"
 Import Drivers into an empty MDT Deployment Share.
-Save the MDT Import Drivers output as .\HP\ImportDrivers.txt.
+Save the MDT Import Drivers output as .\Lenovo-<FormFactor>\<DriverPackName>\ImportDrivers.txt.
 Copy the MDT Drivers in "<Deployment Share>\Out-of-Box Drivers" to .\Lenovo-<FormFactor>\<DriverPackName>\MDT\*.*.
 Copy "<Deployment Share>\Control\Drivers.xml" as .\Lenovo-<FormFactor>\<DriverPackName>\Drivers.xml.
 In MDT Out-of-Box Drivers, run the Export List. Save the file as .\Lenovo-<FormFactor>\<DriverPackName>\ExportList.csv.
